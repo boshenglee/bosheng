@@ -1,0 +1,59 @@
+<html> 
+<head>
+<style>
+.errorMessage{color: red;}
+</style>
+<script src="./validation1.js"></script>
+<title>
+      Validation Form
+</title>
+</head>
+
+<body>
+<h1>
+  Validation Form
+</h1>
+<form id="validationForm" action="" >
+  <fieldset>
+    <p id = "FName">
+      <label for="fName">First name: </label> 
+      <input id="fName" name="fName" type="text"/>
+     
+    </p>
+    <p id = "LName">
+      <label for="lName">Last name: </label> 
+      <input id="lName" name="lName" type="text"/>
+      
+    </p>
+    <p id = "Gender">
+      <label for="gender">Gender: </label> 
+      <select id = "gender">
+	<option></option>
+      	<option value = "Male">Male</option>
+      	<option value = "Female">Female</option>
+      </select>
+    </p>
+    <p id = "State">
+      <label for="state">State: </label> 
+      <select id = "state">
+	<option></option>
+      	<option value = "California">California</option>
+      	<option value = "Florida">Florida</option>
+	<option value = "New York">New York</option>
+      	<option value = "Texas">Texas</option>
+      	<option value = "Hawaii">Hawaii</option>
+      	<option value = "Washington">Washington</option>
+      	<option value = "Colorado">Colorado</option>
+      	<option value = "Virginia">Virginia</option>
+      	<option value = "Iowa">Iowa</option>
+      	<option value = "Arizona">Arizona</option>
+      </select> 
+    </p>  
+    <p>
+      <input onCLick="validate()" type="button" id="continue" name="continue" value="Continue"/>
+    </p>
+  </fieldset>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,1 @@
+To open the index.html, first go to /HW4/public and open index.html to open the webpage with google chrome. Click on the "increment" button to increment the number of stock and click on the text "year" to rearrange the data in ascending and descending order. 

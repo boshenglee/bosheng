@@ -1,0 +1,3 @@
+Question 1: To run the snake.js and snake.html, simply click on the snake.html. A webpage 	    should be pop up according to the browser you are using. You can play with it   	    by clicking on the Start, Turn Left and Turn Right button.
+
+Question 2: To run the hw3.js file, you have to open your terminal and cd to the directory  	    of hw3.js. Then simply type "node hw3.js" in your terminal to run hw3.js file. 	    Then, input  number for each question. The result will show on the terminal 	    after entering the number for each question. 
