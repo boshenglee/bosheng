@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LetsGro</string>
+    <string name="menu_analysis">Analysis</string>
+    <string name="menu_history">History</string>
+    <string name="menu_receipt">Receipt</string>
+    <string name="menu_toBuy">To Buy</string>
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Create_Account"
+    android:id="@+id/createAccount">
+
+    <TextView
+        android:id="@+id/createPage"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="serif-monospace"
+        android:gravity="center"
+        android:text="Create An Account"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/CUser"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/createPage"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Username: "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/CPass"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/CUser"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Password: "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/CRePass"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/CPass"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Re-Enter Password: "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/CEmail"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/CRePass"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Email: "
+        android:textSize="18sp" />
+
+    <EditText
+    android:id="@+id/Cuserbox"
+    android:layout_width="224dp"
+    android:layout_height="57dp"
+    android:layout_below="@id/createPage"
+    android:layout_marginLeft="27dp"
+    android:layout_marginTop="13dp"
+    android:layout_toRightOf="@id/CUser"
+    android:ems="10"
+    android:inputType="textPersonName"
+    android:text="" />
+
+    <EditText
+        android:id="@+id/Cpassbox"
+        android:layout_width="224dp"
+        android:layout_height="57dp"
+        android:layout_below="@id/Cuserbox"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="36dp"
+        android:layout_toRightOf="@id/CPass"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/CRepassbox"
+        android:layout_width="224dp"
+        android:layout_height="57dp"
+        android:layout_below="@id/Cpassbox"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="59dp"
+        android:layout_toRightOf="@id/CRePass"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/CEmailbox"
+        android:layout_width="224dp"
+        android:layout_height="57dp"
+        android:layout_below="@id/CRepassbox"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="33dp"
+        android:layout_toRightOf="@id/CEmail"
+        android:ems="10"
+        android:inputType="textEmailAddress" />
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="Submit" />
+
+    <TextView
+        android:id="@+id/ready"
+        android:layout_width="230dp"
+        android:layout_height="42dp"
+        android:layout_above="@id/submit"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-1dp"
+        android:fontFamily="serif-monospace"
+        android:gravity="center"
+        android:text="Are you ready??" />
+
+</RelativeLayout>

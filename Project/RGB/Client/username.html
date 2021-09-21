@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>G32</title>
+    <h1 contenteditable="true" style="text-align:center"><span style="color: red">R</span><span style="color: green">G</span><span style="color: blue">B</span></h1>
+  <script src="./username.js"></script>
+  <link rel="stylesheet" href="username.css">
+  </head>
+
+  <body>
+
+    <div>
+      <p id= "description" style="text-align:center"> This is a game created by G32. <br>
+        You have to pick the only different color button on the board to survive. <br>
+        Watch out for the monster!<br>
+        Lets go RGB warrior.</p>
+    </div>
+    <br>
+    <br>
+    <form id="userForm" action="" >
+      <fieldset>
+        <p id = "username">
+          <label for="username">Enter your username: </label>
+          <input id="userInput" name="userInput" type="text"/>
+        </p>
+        <br>
+        <p>
+          <input onCLick="validate()" type="button" class="buttonUsername" id="start" name="start" value="Start Game"/>
+          <audio id="audio1" src="usernameBM.mp3"></audio>
+
+        </p>
+      </fieldset>
+    </form>
+  </body>
+</html>

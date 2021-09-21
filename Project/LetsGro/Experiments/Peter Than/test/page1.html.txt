@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+div.a {
+  text-indent: 50px;
+}
+</style>
+
+<h1>Page 1</h1>
+<p style="font-size:160%;"><b>Form 1 </b></p>
+<p> This form demonstrates elements like:</p><br>
+<div class="a">
+  <p>&#9679; Input textbox</p>
+  <p>&#9679; Button</p>
+  <p>&#9679; Checkbox</p><br>
+</div>
+
+<form action="/action_page.php">
+  <label for="fname">Login:</label><br>
+  <input type="text" id="username" name="username"><br>
+  <label for="lname">Password:</label><br>
+  <input type="password" id="password" name="password"><br>
+  <label><input type="checkbox" name="remember"> Remember me</label><br><br>
+  <input type="submit" value="Submit">
+</form>
+<p><a href="C:\Users\triet\Desktop\Than_Triet\index.html/">Back</a></p>
+
+
+
+</body>
+</html>

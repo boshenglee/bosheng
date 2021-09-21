@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Analysis"
+    android:orientation="vertical"
+    android:layout_weight="100">
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:id="@+id/graph"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_weight="50"
+        android:orientation="vertical">
+
+    </com.github.mikephil.charting.charts.BarChart>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:layout_weight="8.33">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:text="Total Spent: "/>
+
+        <TextView
+            android:id="@+id/total_spent"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:text="spent"
+            android:textAlignment="center"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:layout_weight="8.33">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:text="Most Visit Store:"/>
+
+        <TextView
+            android:id="@+id/most_visit_store"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:text="Store"
+            android:textAlignment="center"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="vertical"
+        android:layout_weight="8.33">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:text="Highest Priced Item:"/>
+
+        <TextView
+            android:id="@+id/highest_item"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center"
+            android:text="item"
+            android:textAlignment="center"
+            android:textSize="25dp"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

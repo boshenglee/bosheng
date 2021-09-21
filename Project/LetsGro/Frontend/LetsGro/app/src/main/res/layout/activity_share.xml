@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ShareActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/showStatus"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:textSize="22dp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:textStyle="bold">
+
+        </TextView>
+
+
+        <ListView
+            android:id="@+id/shareItemListView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#FFFFFF"
+            android:footerDividersEnabled="false" >
+        </ListView>
+
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/shareFloatingAddButton"
+        app:backgroundTint="#79BFAA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="#79BFAA"
+        android:clickable="true"
+        android:elevation="50dp"
+        android:src="@drawable/ic_baseline_add_24" />
+
+
+</FrameLayout>

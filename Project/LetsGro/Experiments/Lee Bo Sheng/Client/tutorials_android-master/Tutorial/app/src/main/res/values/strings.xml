@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="local">http://10.0.2.2:8080</string>
+    <string name="remote">http://remotehost:8080</string>
+</resources>

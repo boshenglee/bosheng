@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/sharing"
+        android:title="sharing"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_sharing"/>
+    <item
+        android:id="@+id/share"
+        android:title="Share"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_share"/>
+
+    <item
+        android:id="@+id/deleteAll"
+        android:title="Delete All"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_delete_all"/>
+
+
+
+</menu>

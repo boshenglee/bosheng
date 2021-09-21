@@ -1,0 +1,28 @@
+Lee: Todo and reminder application 
+Peter: Smart Wallet 
+	Con: have to input everything 
+	automatically saved transaction 
+	finding the average market price
+ 	what people usually buy 
+Madeline: Reminder Application 
+My idea: Autonightmode
+Ask user if the item is the same or not.
+
+Application Name: Willdo
+Feature:Note.
+	Dissapear when done. 
+	Notification.
+	Alarm.
+-----------------------------------------------------------------------------------
+	Location(not service).
+	Camera or image?
+	Removing items from to-buy-list using receipt? 
+	weekly customizable (can be weekly monthly yearly) to-buy-list 
+	if item is in the receipt three times in a row, ask user whether to add into 		the weekly to-buy-list
+	Save receipt into text file?
+	weekly, monthly, yearly spending statistic
+	adaptivenightmode
+	Sharing the todolist
+
+UI: 
+	

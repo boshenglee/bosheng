@@ -1,0 +1,2 @@
+line 4: syntax error on creating a monster object (examples provided at line 17)
+line 5: "power" is not defined

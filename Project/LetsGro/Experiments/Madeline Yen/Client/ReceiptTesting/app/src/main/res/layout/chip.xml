@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.ChipGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/chipGroup"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true">
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/happy"
+        style="@style/Widget.MaterialComponents.Chip.Choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="false"
+        android:text="@string/happy"
+        android:textColor="#DCB0C0"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="32dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_conversion_absoluteWidth="83dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/sad"
+        style="@style/Widget.MaterialComponents.Chip.Choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="false"
+        android:text="@string/sad"
+        android:textColor="#DCB0C0"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="32dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="91dp"
+        tools:layout_conversion_absoluteWidth="63dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/angry"
+        style="@style/Widget.MaterialComponents.Chip.Choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="false"
+        android:text="@string/angry"
+        android:textColor="#DCB0C0"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="32dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_conversion_absoluteWidth="78dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/Joyful"
+        style="@style/Widget.MaterialComponents.Chip.Choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="false"
+        android:text="@string/joyful"
+        android:textColor="#DCB0C0"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="32dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="248dp"
+        tools:layout_conversion_absoluteWidth="81dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/Depressed"
+        style="@style/Widget.MaterialComponents.Chip.Choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="false"
+        android:text="@string/depressed"
+        android:textColor="#DCB0C0"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="32dp"
+        tools:layout_editor_absoluteY="32dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_conversion_absoluteWidth="117dp" />
+
+    <com.google.android.material.chip.Chip
+        android:id="@+id/tired"
+        style="@style/Widget.MaterialComponents.Chip.Choice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checkable="true"
+        android:checked="false"
+        android:text="@string/tired"
+        android:textColor="#DCB0C0"
+        android:textSize="18sp"
+        tools:layout_conversion_absoluteHeight="32dp"
+        tools:layout_editor_absoluteY="32dp"
+        tools:layout_editor_absoluteX="125dp"
+        tools:layout_conversion_absoluteWidth="73dp" />
+
+</com.google.android.material.chip.ChipGroup>
+
+
+
+

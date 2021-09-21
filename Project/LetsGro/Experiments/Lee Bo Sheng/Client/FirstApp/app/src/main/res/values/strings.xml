@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MY First App :)</string>
+
+    <string-array name="items">
+        <item>Cabbage</item>
+        <item>Egg</item>
+        <item>tomato</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$2.99</item>
+        <item>$4.99</item>
+        <item>$3.99</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>My favorite</item>
+        <item>Not bad</item>
+        <item>I HATE IT</item>
+    </string-array>
+</resources>

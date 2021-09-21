@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_dashboard_black_18dp"
+        android:title="Dashboard"/>
+    <item
+        android:id="@+id/analysis"
+        android:enabled="true"
+        android:icon="@drawable/ic_bar_chart_24px"
+        android:title="@string/menu_analysis"/>
+    <item
+        android:id="@+id/history"
+        android:enabled="true"
+        android:icon="@drawable/ic_history_24px"
+        android:title="@string/menu_history"/>
+    <item
+        android:id="@+id/receipt"
+        android:enabled="true"
+        android:icon="@drawable/ic_receipt_long_24px"
+        android:title="@string/menu_receipt"/>
+    <item
+        android:id="@+id/toBuy"
+        android:enabled="true"
+        android:icon="@drawable/ic_create_24px"
+        android:title="@string/menu_toBuy"/>
+
+</menu>

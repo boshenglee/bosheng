@@ -1,0 +1,6 @@
+com.letgro.backend
+com.letgro.backend.Controller
+com.letgro.backend.Database
+com.letgro.backend.Model
+com.letgro.backend.Service
+com.letgro.backend.Service.ReceiptInterpreter

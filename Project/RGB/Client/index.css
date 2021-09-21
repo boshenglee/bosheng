@@ -1,0 +1,64 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    background-color: black;
+
+}
+
+h1{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size:64px;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    color: white;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+
+input.button {
+  text-indent: -9000px;
+  text-transform: capitalize;
+  width: 3em;
+  height: 3em;
+  color: white;
+  margin:10px;
+  border-radius: 50%;
+  border: none;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+
+.apply-shake {
+    animation: shake 0.5s cubic-bezier(.36,.07,.19,.97) both;
+}

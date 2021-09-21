@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Receipt Testing</string>
+    <string name="Add">AddInfo</string>
+    <string name="Enter_Date">Date:</string>
+    <string name="date_box">Enter the Date</string>
+    <string name="save_data">Save</string>
+    <string name="mood_box" />
+    <string name="happy">Happy</string>
+    <string name="sad">Sad</string>
+    <string name="angry">Angry</string>
+    <string name="joyful">Joyful</string>
+    <string name="depressed">Depressed</string>
+    <string name="tired">Tired</string>
+</resources>

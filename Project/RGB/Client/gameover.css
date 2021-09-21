@@ -1,0 +1,52 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+    background-color: black;
+
+}
+
+h1{
+  font-family: "Lucida Console", Courier, monospace;
+  font-size:64px;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    color: white;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+form {
+  text-align: center;
+}
+
+.buttonYes {
+  border-radius: 6px;
+  font-size: 18px;
+  background-color: #e7e7e7;
+  color: white;
+  border-color: white;
+  transition-duration: 0.4s;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+.buttonYes:hover {
+  background-color: grey; /* Green */
+  color: black;
+}
+
+.buttonYes:active {
+  background-color: #555555;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+#yes {
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, red, orange, green, blue, purple);
+}

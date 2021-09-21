@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/login_page"
+    tools:context=".login_page">
+
+    <TextView
+        android:id="@+id/gogro"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:fontFamily="serif-monospace"
+        android:gravity="center"
+        android:text="Lets Gro"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/gogro"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Username: "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/password"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/username"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="Password: "
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/userbox"
+        android:layout_width="224dp"
+        android:layout_height="57dp"
+        android:layout_below="@id/gogro"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="13dp"
+        android:layout_toRightOf="@id/username"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="" />
+
+    <EditText
+        android:id="@+id/passbox"
+        android:layout_width="229dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/userbox"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="30dp"
+        android:layout_toRightOf="@id/password"
+        android:ems="10"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Log In" />
+
+    <Button
+        android:id="@+id/create"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="143dp"
+        android:onClick="open_createAccount"
+        android:text="@string/create" />
+
+    <TextView
+        android:id="@+id/createQ"
+        android:layout_width="230dp"
+        android:layout_height="42dp"
+        android:layout_above="@id/create"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-1dp"
+        android:fontFamily="serif-monospace"
+        android:gravity="center"
+        android:text="Don't have an account yet?" />
+
+
+</RelativeLayout>
