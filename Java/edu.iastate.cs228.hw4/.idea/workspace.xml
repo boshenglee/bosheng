@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3328a2eb-9a30-44c8-a902-3b3baadd4f07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aKJIsQOT50m6wtCp2CcqLtNiBY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.iastate.cs228.hw4.InfixPostfix" />
+      <module name="edu.iastate.cs228.hw4" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hw4Tests" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="edu.iastate.cs228.hw4" />
+      <option name="PACKAGE_NAME" value="edu.iastate.cs228.hw4" />
+      <option name="MAIN_CLASS_NAME" value="edu.iastate.cs228.hw4.hw4Tests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.hw4Tests" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3328a2eb-9a30-44c8-a902-3b3baadd4f07" name="Default Changelist" comment="" />
+      <created>1586478274737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586478274737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="202" width="1071" height="697" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586732857313">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" width="1071" height="697" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586732857313" />
+    <state x="697" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586732855317">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586732855317" />
+    <state x="819" y="214" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586732712276">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="819" y="214" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586732712276" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom" timestamp="1586835365030">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586835365030" />
+    <state width="1878" height="286" key="GridCell.Tab.0.bottom/0.23.1920.1018@0.23.1920.1018" timestamp="1586812496820" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center" timestamp="1586835365029">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586835365029" />
+    <state width="1878" height="286" key="GridCell.Tab.0.center/0.23.1920.1018@0.23.1920.1018" timestamp="1586812496817" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left" timestamp="1586835365028">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586835365028" />
+    <state width="1878" height="286" key="GridCell.Tab.0.left/0.23.1920.1018@0.23.1920.1018" timestamp="1586812496817" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right" timestamp="1586835365029">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586835365029" />
+    <state width="1878" height="286" key="GridCell.Tab.0.right/0.23.1920.1018@0.23.1920.1018" timestamp="1586812496818" />
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom" timestamp="1586813234133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586813234133" />
+    <state width="1878" height="356" key="GridCell.Tab.1.center" timestamp="1586813234132">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586813234132" />
+    <state width="1878" height="356" key="GridCell.Tab.1.left" timestamp="1586813234132">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586813234132" />
+    <state width="1878" height="356" key="GridCell.Tab.1.right" timestamp="1586813234133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586813234133" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1586732807618">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586732807618" />
+    <state x="636" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1586834904349">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="374" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586834904349" />
+    <state x="636" y="374" key="com.intellij.ide.util.TipDialog/0.23.1920.1018@0.23.1920.1018" timestamp="1586543449011" />
+    <state x="686" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586732840476">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="686" y="436" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1586732840476" />
+    <state x="533" y="201" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586812822064">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="533" y="201" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1080@0.0.1920.1080" timestamp="1586812822064" />
+    <state x="625" y="227" key="run.anything.popup" timestamp="1586720595055">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="625" y="227" key="run.anything.popup/0.23.1920.1018@0.23.1920.1018" timestamp="1586720595055" />
+    <state x="625" y="202" width="670" height="676" key="search.everywhere.popup" timestamp="1586649543105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="202" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586649543105" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/iastate/cs228/hw4/InfixExpression.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint type="java-method">
+          <url>file://$PROJECT_DIR$/src/edu/iastate/cs228/hw4/InfixExpression.java</url>
+          <line>75</line>
+          <properties class="edu.iastate.cs228.hw4.InfixExpression" method="postfixString">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

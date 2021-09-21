@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f58395f-89c4-49f0-9d65-783e5c4e8f07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="ProjectId" id="1XluP0NnvslR4mcVahJkJx6M1Zz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Wildlife">
+    <configuration name="Wildlife" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.iastate.cs228.hw1.Wildlife" />
+      <module name="edu.iastate.cs228.hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JUnit" type="JUnit" factoryName="JUnit">
+      <module name="edu.iastate.cs228.hw1" />
+      <option name="PACKAGE_NAME" value="project1" />
+      <option name="MAIN_CLASS_NAME" value="project1.Project1TestCases" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Wildlife" />
+      <item itemvalue="JUnit.JUnit" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f58395f-89c4-49f0-9d65-783e5c4e8f07" name="Default Changelist" comment="" />
+      <created>1581632975616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581632975616</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="188" key="#JUnit" timestamp="1581741038244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="188" key="#JUnit/0.0.1920.1080@0.0.1920.1080" timestamp="1581741038244" />
+    <state x="424" y="202" width="1071" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581811755009">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" width="1071" height="694" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581811755009" />
+    <state x="697" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581811753664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="697" y="331" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581811753664" />
+    <state x="743" y="419" width="433" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581742993459">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="419" width="433" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1581742993459" />
+    <state width="1878" height="313" key="GridCell.Tab.0.bottom" timestamp="1581830414004">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581650711111" />
+    <state width="1878" height="313" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581830414004" />
+    <state width="1878" height="313" key="GridCell.Tab.0.bottom/0.23.1920.1019@0.23.1920.1019" timestamp="1581822864569" />
+    <state width="1878" height="313" key="GridCell.Tab.0.center" timestamp="1581830414003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581650711110" />
+    <state width="1878" height="313" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581830414003" />
+    <state width="1878" height="313" key="GridCell.Tab.0.center/0.23.1920.1019@0.23.1920.1019" timestamp="1581822864567" />
+    <state width="1878" height="313" key="GridCell.Tab.0.left" timestamp="1581830414003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581650711109" />
+    <state width="1878" height="313" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581830414003" />
+    <state width="1878" height="313" key="GridCell.Tab.0.left/0.23.1920.1019@0.23.1920.1019" timestamp="1581822864566" />
+    <state width="1878" height="313" key="GridCell.Tab.0.right" timestamp="1581830414004">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1398" height="249" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581650711110" />
+    <state width="1878" height="313" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581830414004" />
+    <state width="1878" height="313" key="GridCell.Tab.0.right/0.23.1920.1019@0.23.1920.1019" timestamp="1581822864568" />
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom" timestamp="1581745527336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581745527336" />
+    <state width="1878" height="356" key="GridCell.Tab.1.center" timestamp="1581745527335">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581745527335" />
+    <state width="1878" height="356" key="GridCell.Tab.1.left" timestamp="1581745527335">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581745527335" />
+    <state width="1878" height="356" key="GridCell.Tab.1.right" timestamp="1581745527336">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="356" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581745527336" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1581740698988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581740698988" />
+    <state x="761" y="325" key="chooseDestDirectoryDialog" timestamp="1581740453373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="761" y="325" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581740453373" />
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1582746682225">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582746682225" />
+    <state x="507" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581912977689" />
+    <state x="72" y="22" width="1246" height="838" key="new project wizard" timestamp="1582746767891">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="72" y="22" width="1246" height="838" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1582746767891" />
+  </component>
+</project>
