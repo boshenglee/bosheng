@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+            View Data
+        </title>
+        <body>
+            {% for x in content %}
+                <p>
+                    ID: {{x.id}},  location:{{x.location_x, x.location_y}}, availability: {{x.availability}}  model: {{x.model}}
+                </p>
+            {% endfor %}
+        </body>
+    </head>
+</html>
