@@ -23,4 +23,4 @@ Just a little project that using flask sqlalchemy to perofrm a simple robot movi
 - Use postman to create job for the system to run 
 
 Example: 
- image.png
+ ![image](https://user-images.githubusercontent.com/57427833/167334467-294a87d9-da49-4f31-996f-a539ac045e59.png)
